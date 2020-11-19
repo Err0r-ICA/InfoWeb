@@ -12,7 +12,7 @@
 
 ![Err0r's github stats](https://github-readme-stats.vercel.app/api?username=Err0r-ICA&show_icons=true&theme=radical)
 ![Err0r's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=freeCodeCamp)]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freeCodeCamp)](https://github.com/freeCodeCamp/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freeCodeCamp)](https://github.com/Err0r-ICA/github-readme-stats)
 
 
 ## Features

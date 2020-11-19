@@ -1,6 +1,8 @@
 # InfoWeb
 <i>**Website Information Gathering Tool**</i>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Err0r-ICA)
+
 ## Commands
 ```
 【✔】git clone https://github.com/Err0r-ICA/InfoWeb

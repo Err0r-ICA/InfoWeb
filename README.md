@@ -14,8 +14,7 @@
 <!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Err0r-ICA&hide=ruby,perl&hide_border=true" />  -->
 </p>
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Err0r-ICA&langs_count=8)](https://github.com/Err0r-ICA/github-readme-stats)
+
 ## Features
 
 [01]  -->>>  **DNS Lookup**<br>

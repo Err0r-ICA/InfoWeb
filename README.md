@@ -1,5 +1,5 @@
-# InfoWeb
-<i>**Website Information Gathering Tool**</i>
+# <font color='lime'>InfoWeb
+<i>**Website Information Gathering Tool**</i></font>
 
 ## Commands
 ```

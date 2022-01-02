@@ -1,21 +1,21 @@
-# <font color='lime'>InfoWeb
+# <font color='lime'>InfoWeb 🔎
 <i>**Website Information Gathering Tool**</i></font>
 
-## Commands
+## 💿 Installation 💿
 ```
 【✔】git clone https://github.com/Err0r-ICA/InfoWeb
 【✔】cd InfoWeb
 【✔】python2 InfoWeb
 ```
 
-## Coder's Rank
+## 🏆 Coder's Rank 🏆
 
 ![Err0r's github stats](https://github-readme-stats.vercel.app/api?username=Err0r-ICA&show_icons=true&theme=radical)
 ![Err0r's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Err0r-ICA)
 
 
-## Features
+## ✨ Features ✨
 
 [01]  -->>>  **DNS Lookup**<br>
 [02]  -->>>  **Whois Lookup**<br>
@@ -34,10 +34,10 @@
 [15]  -->>>  **Collection Email**<br>
 [16]  -->>>  **Subdomain Finder**<br>
 
-## Screenshot 
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/9FNqQ1k5/20201119-164414.jpg)
 
-### Connect with me:
+### 👤 Connect with me 👤
 <a href="https://github.com/Err0r-ICA"><img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://t.me/kalit3rmux"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 <a href="https://www.facebook.com/termuxxhacking"><img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
